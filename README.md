@@ -1,4 +1,3 @@
-![GIF](https://github.com/Volchinskiy/Volchinskiy/blob/main/circle_gif.gif)
 <img src="https://github.com/Volchinskiy/Volchinskiy/blob/main/circle_gif.gif" width="100%" />
 <code>🔴 FrontEnd Developer (1 year commercial experience)</code><br/>
 <code>🟤 Tech stack: React</code><br/>

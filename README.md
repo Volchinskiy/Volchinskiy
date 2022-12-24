@@ -1,4 +1,4 @@
-<img src="gif.gif" width="100%" />
+<img src="gif.gif" width="100%" h="200px" />
 
 - FrontEnd Developer (1 year commercial experience)</code><br/>
 - Tech stack: React</code><br/>

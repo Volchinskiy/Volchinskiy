@@ -1,3 +1,4 @@
+![GIF](https://github.com/Volchinskiy/Volchinskiy/blob/main/circle_gif.gif)
 <code>🔴 FrontEnd Developer (1 year commercial experience)</code><br/>
 <code>🟤 Tech stack: React</code><br/>
 <code>🟡 [Skills](SKILLS.md)</code><br/>

@@ -1,4 +1,5 @@
 <img src="circle_gif_v2.gif" width="100%" />
+
 - FrontEnd Developer (1 year commercial experience)</code><br/>
 - Tech stack: React</code><br/>
 - [Skills](SKILLS.md)<br/>

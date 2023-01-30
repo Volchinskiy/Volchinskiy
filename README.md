@@ -6,5 +6,5 @@
 - Languages: JavaScript, TypeScript<br/>
 - Community: Metarhia</code><br/>
 - Contacts:<br/>
-- Telegram: [@m_volchinskiy](https://t.me/m_volchinskiy)
+- Telegram: [@F_communicate_telegram](https://t.me/F_communicate_telegram)
 - Email: [thyxaxa@gmail.com](mailto:thyxaxas@gmail.com)<br/>

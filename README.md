@@ -5,6 +5,5 @@
 - [Skills](SKILLS.md)<br/>
 - Languages: JavaScript, TypeScript<br/>
 - Community: Metarhia</code><br/>
-- Contacts:<br/>
 - Telegram: [@F_communicate_telegram](https://t.me/F_communicate_telegram)
 - Email: [thyxaxa@gmail.com](mailto:thyxaxas@gmail.com)<br/>
